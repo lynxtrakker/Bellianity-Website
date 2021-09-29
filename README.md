@@ -1,5 +1,5 @@
 [discord-invite]: https://discord.gg/0hMr4ce0tIl3SLv5
-[discord-shield]: https://discord.com/api/guilds/125227483518861312/widget.png
+[discord-shield]: https://discord.com/api/guilds/826455171969056838/widget.png
 [ ![discord-shield][] ][discord-invite]
 
 # Bellianity
